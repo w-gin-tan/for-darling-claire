@@ -1,0 +1,12 @@
+html {
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    font-family: 'Abel';
+    background-repeat: no-repeat;
+    background-image: url(assets/bg.jpg);
+}
